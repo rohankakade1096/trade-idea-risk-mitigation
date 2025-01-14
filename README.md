@@ -59,4 +59,4 @@
 ---
 
 ### **GitHub Repository Link:**  
-[**Trade Idea Proposal Repository**](https://github.com/rohankakade1096/trade-idea-risk-mitigation)  
+[**Trade Idea Proposal Repository**](https://github.com/rohankakade1096/trade-idea-risk-mitigation)
